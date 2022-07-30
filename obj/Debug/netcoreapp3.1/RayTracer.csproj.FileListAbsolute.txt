@@ -1,0 +1,16 @@
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\bin\Debug\netcoreapp3.1\RayTracer.exe
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\bin\Debug\netcoreapp3.1\RayTracer.deps.json
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\bin\Debug\netcoreapp3.1\RayTracer.runtimeconfig.json
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\bin\Debug\netcoreapp3.1\RayTracer.runtimeconfig.dev.json
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\bin\Debug\netcoreapp3.1\RayTracer.dll
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\bin\Debug\netcoreapp3.1\RayTracer.pdb
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\bin\Debug\netcoreapp3.1\CommandLine.dll
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\bin\Debug\netcoreapp3.1\StbImageWriteSharp.dll
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\obj\Debug\netcoreapp3.1\RayTracer.csprojAssemblyReference.cache
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\obj\Debug\netcoreapp3.1\RayTracer.AssemblyInfoInputs.cache
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\obj\Debug\netcoreapp3.1\RayTracer.AssemblyInfo.cs
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\obj\Debug\netcoreapp3.1\RayTracer.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\obj\Debug\netcoreapp3.1\RayTracer.csproj.CopyComplete
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\obj\Debug\netcoreapp3.1\RayTracer.dll
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\obj\Debug\netcoreapp3.1\RayTracer.pdb
+D:\Documents\GitHub\project-1-ray-tracer-kaguramemeko412\obj\Debug\netcoreapp3.1\RayTracer.genruntimeconfig.cache
